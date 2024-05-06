@@ -1,4 +1,4 @@
-## :tw-1f44b: Hello there, I'm Leonardo Quevedo :tw-1f44b:
+## 👋 Hello there, I'm Leonardo Quevedo 👋
 
 <p>
 	I'm a **Systems engineer** with over 4 years of experience in HTML, CSS, ReactJs, programming
