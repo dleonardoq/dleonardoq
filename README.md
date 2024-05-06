@@ -1,7 +1,7 @@
 ## 👋 Hello there, I'm Leonardo Quevedo 👋
 
 <p>
-	I'm a **Systems engineer** with over 4 years of experience in HTML, CSS, ReactJs, programming
+	I'm a Systems engineer with over 4 years of experience in HTML, CSS, ReactJs, programming
 	languages PHP, Python, and JavaScript (Node.js). Proficient in databases such as
 	MYSQL, PostgreSQL, version control system GIT, experienced in Docker, and
 	knowledgeable in Jenkins usage. Possesses professional competencies in
